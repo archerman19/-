@@ -1,0 +1,50 @@
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.form{
+    padding: 20px;
+}
+
+.caption{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+.wrap{
+    padding: 20px;
+}
+.wrap a{
+    margin: 5px;
+    font-size: 16px;
+    color: black;
+}
+
+.head button{
+    float: left;
+}
+
+.selector{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    width: 450px;
+}
+
+.filter{
+    width: 100px;
+}
